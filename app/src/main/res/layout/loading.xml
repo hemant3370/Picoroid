@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:id="@+id/progres"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:alpha="0.5"
+    android:gravity="center">
+
+    <io.saeid.fabloading.LoadingView
+        android:id="@+id/loading_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleX="1.5"
+        android:scaleY="1.5"
+        app:mfl_duration="40000"
+        app:mfl_onclickLoading="true" />
+
+
+</LinearLayout>

@@ -1,0 +1,11 @@
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/GridLayout1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnCount="2"
+    android:orientation="horizontal"
+    android:rowCount="2"
+    tools:context=".GridXMLActivity">
+
+</GridLayout>
