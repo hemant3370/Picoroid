@@ -28,7 +28,7 @@
         android:theme="@style/AppTheme">
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyCtBNnWZZOcWIyi63kY-0fSjie1n0NQFCs" />
+            android:value="your key-0fSjie1n0NQFCs" />
 
         <activity
             android:name=".gSignIn"
@@ -56,7 +56,7 @@
 
         <meta-data
             android:name="io.fabric.ApiKey"
-            android:value="597bcd53f35705409bfd91ee7dbe495d53a27bec" />
+            android:value="your key" />
     </application>
 
 </manifest>
